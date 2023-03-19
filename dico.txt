@@ -1,0 +1,264 @@
+ya je(f)
+ka tu(f)
+fa elle
+yas nous(f)
+kas vous(f)
+fas elles
+yė je(m)
+kė tu(m)
+fė il(m)
+yės nous(m)
+kės vous(m)
+fės ils(m)
+yo je(n)
+ko tu(n)
+fo il(n)
+yos nous(n)
+kos vous(n)
+fos ils(n)
+nav naviguer
+vot conduire/être en voiture
+lum éclairer/briller
+ėrėv/ėv être (quelque chose)
+ėrėd/ėd être (quelque part)
+sėrėv/sėv devenir
+pėrėv/pėv paraître / ressembler
+dipėrėv/dipėv disparaître
+a avoir
+cib écrire
+mang manger
+bėdrisk investir
+bėd acheter
+stal voyager
+půln nager
+wot vouloir
+kobat connaître
+pė pouvoir
+fav faire
+qabot fermer
+jôd articuler
+cèrv contrôler son corps/son être/son paraître
+scult osculter/regarder
+ré réagir
+toq discuter
+mot pouvoir
+ik venir
+suv survenir/surgir
+or attaquer
+lé apprendre
+madév surprendre
+mänt manger
+ėmir vivre
+mėir mourir
+omir manger
+extom vomir
+forést courir
+tis tisser
+èlv aider
+rism bouger
+od vouloir
+vėd apprendre
+qén boire
+lôf aimer
+sôl jouer
+sėlv vendre
+sôlm acheminer
+tôv transporter/transmettre
+ômm parler
+méd faire
+dam parvenir
+um sentir(odorat)
+tėv utiliser
+direction fleksyö
+position pwïsyö
+dėa sur/nord
+aėd sous/surd
+yao droite/est
+oay gauche/oest
+dėaoay au dessus a gauche/nord oest
+dėayao au dessus a droite/nord est
+aėdaoy en dessous a gauche/sud ouest
+aėdyoa en dessous a droite/sud est
+centre/dans/ici/sur ô
+au_dessus surdėa
+au_dessous suraėd
+sur_la_droite suryao
+sur_la_gauche suroay
+tour/autour tôr
+devant mav
+derrière vam
+rien nada
+peu sti
+petit sti/siv
+entre_peu_et_moyen můl
+moyennement cůmsi
+beaucoup som/boco
+grand som/ôlq
+trop ko
+tout tů
+animaux ayėvi
+kati chat
+doggo chien
+iryis oiseau
+somqüjé girafe
+blistota aigle
+aliment fogü
+papané pastèque
+ayôn bonjour
+yakabé au revoir
+ay salut
+qaboto_la_boqa ferme ta gueule
+dimiv s'il te plait/s'il vous plait
+hota Bonet
+torqüjé cache cou
+jèrsè t-shirt
+maybom pull / tricot 
+sirva habit de richesse, de valeur 
+divä habit d'élégance
+gardo chapeau courbé
+pasvä habit troué, moche, usé
+jirol sous-vêtement
+braqa pantalon en toile
+jean jean
+nilya pantalon en coton, nylon(survêtement)
+ôsoq Chaussette
+soq chaussure 
+couvsoql chaussure
+anatomie kadavi
+tato tête
+grota ventre
+briç bras
+qoç jambe
+soql pied
+grip main
+mikado/dogo doigt
+dogrip  orteil 
+ogl ongle
+kéra cheveux
+porgä poil
+pèrl yeux
+noz nez
+lutèn orreille
+boqa bouche
+dâ dent
+tâg langue
+jènva gencive 
+qwadrise cuisse
+qlévin mollet
+qlévia muscle
+qüjé cou
+odvila ossature
+odv os
+éka peau
+jôdové articulation
+qorlè tendon
+corpus corps
+sinis sang
+solsinis veine
+tubsinis artère
+qlénis coeur
+cèrval cerveau 
+Oda autre 
+Valnä basique / primitif
+pavûs peuple 
+pavo personne (une personne)
+napavo personne (y'a personne)
+tènvi temps
+intènvi pendant
+qödyö condition
+lüé oui
+ribé non
+tant pos
+depuis vamo/ao
+jusque odams/omav
+maintenant oti
+aulieu sèmin
+cléäntin jalousie/possessivité
+cléän jaloux/possessif
+mahi pute
+rué rue
+écouteurs poq
+écouteurs_sans_fil èrpoq
+propreté prôpan 
+mais mèv
+oû ôda
+et i
+donc ôvôs
+or ôr 
+ni ni
+car ovqo 
+pour_que voqo 
+parce_que ôvqo
+alors_que ôrqo
+malgré_que mèvqo
+plutôt_que sèminqo
+sauf_que lûémèv 
+à_condition qômqödyö
+à_par_si odaqo si
+au_cas_où wipano
+pourvu_que wotdams qo
+tant_que posqo
+en_conséquences ôvôsqo
+après_que mavqo
+avant_que vamqo
+dès_que dômqo
+depuis_que vamoqo
+jusqu'à_ce_que odamsqo
+lorsque intènivqo
+maintenant_que otiqo 
+à/de(quelque-part)/en vôn
+de(de quelque-chose) dė
+par ôv
+pour vo
+vers dir 
+avec qôm
+sans naqôm/nôm
+chez ô
+contre vèno 
+ameublement/mobilier ablämä
+meuble abläm
+table taval
+évier baqlo
+porte qlôt
+lit vil
+berceau qrèç
+fenêtre vitrèl
+bai-vitrée qlôvitrèl
+chaise civel
+banc lôncivel/bä
+fauteuil fizal/madralè
+table-basse tavalè
+canapé sôfa/qanap/madral
+bureau devtav/devtaval/qyôst
+vaisselle pôrs
+assiette bôl
+tasse qėp
+bol cûp
+couteau cėtėr
+fourchette pikè
+cuillère cûpèl
+lave_vaisselle pôrsprôpėr
+ville ila 
+rue/route rué
+trottoir otrėy
+maison hôws
+immeuble lônhôws/qlamil 
+tour tôn 
+le mė(m)
+la ma
+le mo(n)
+les mės(m)
+les mas(f)
+les mos(m)
+un mon mė(m)
+une mon ma
+un mon mo (n)
+des vės/mon mės(m)
+des vas/mon mas(f)
+des vos/mon mos(n)
+dimė du/de le 
+dima de la
+dimo du/de le(n)
+dimės de les(m)
+dimas de les(f)
+dimos de les(n)
